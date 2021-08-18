@@ -9,3 +9,5 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/). Front-End Eğitiminde oluştu
 ```
 git clone https://github.com/etokoc/kodluyoruzilkrepo.git
 ```
+
+![Resim](./img.png)
