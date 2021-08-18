@@ -5,3 +5,5 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 # Installation 
 Öncelikle projeyi clonelayın.(https://github.com/etokoc/kodluyoruzilkrepo.git)
+
+'https://github.com/etokoc/kodluyoruzilkrepo.git'
